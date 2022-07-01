@@ -1,0 +1,11 @@
+small {font-size: 10px; padding-left: 5px; color: lightgrey;}
+img#idme-logo {position: fixed; bottom: 10px; right: 10px; width: 150px; height: auto;}
+img#header {width: 100%; padding-top: 30px;}
+.hidden {display: none;}
+button {width: 80px; padding: 10px; margin: 5px;}
+.centered {text-align: center;}
+#manual_time_input {font-size: 0.85rem; width: 135px; text-align: center;}
+#buildUrl div {display: inline;}
+code {color: indigo;}
+small {color: steelblue; font-size: 11px;}
+li {padding-top: 10px; padding-bottom: 10px;}
